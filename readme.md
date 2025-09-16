@@ -1,12 +1,3 @@
-This is hangman app with GUI
-multiplayer
-Developed in docker:
-to run text:: 
-- docker-compose build
-- docker-compose up tests
-to run::
-- docker-compose build
-- docker-compose up
 # Hangman Web App
 
 This is a full-stack Hangman game web application, designed to run locally using Docker Compose. The project features:

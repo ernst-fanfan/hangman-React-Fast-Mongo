@@ -1,0 +1,7 @@
+
+fastapi
+uvicorn
+motor
+pytest
+python-dotenv
+httpx
